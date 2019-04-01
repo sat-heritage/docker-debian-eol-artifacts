@@ -1,0 +1,4 @@
+# deb http://snapshot.debian.org/archive/debian-archive/20190401T000000Z/debian wheezy main
+deb http://archive.debian.org/debian wheezy main
+# deb http://snapshot.debian.org/archive/debian-security/20190401T000000Z wheezy/updates main
+deb http://archive.debian.org/debian-security wheezy/updates main
